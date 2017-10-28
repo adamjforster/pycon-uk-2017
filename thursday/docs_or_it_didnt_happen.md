@@ -1,8 +1,11 @@
 # Docs or it Didn't Happen
 
 **Speaker:** Mikey Ariel (@ThatDocsLady)
-**Slides:** TODO
+
+**Slides:** https://speakerdeck.com/thatdocslady/docs-or-it-didnt-happen
+
 **Video:** TODO
+
 
 - Content strategy:
   - Lookup documentarians (Wrtie the Docs).
