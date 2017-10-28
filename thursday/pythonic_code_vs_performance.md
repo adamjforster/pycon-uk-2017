@@ -1,7 +1,7 @@
 # Pythonic Code vs. Performance
 
-**Speaker:** Lukasz Kakol ()
-**Slides:** TODO
+**Speaker:** Lukasz Kakol (@llanga)
+**Slides:** http://lukkol.pl/pyconuk2017-performance
 **Video:** TODO
 
 - Performance aspects:
@@ -22,6 +22,4 @@
   - psutil, plugin for memory_profiler.
   - dis, used to disassemble the code.
   
-- Demo:
-  
-  
+- Demo: see slides
