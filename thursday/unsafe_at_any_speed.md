@@ -1,8 +1,11 @@
 # Unsafe at Any Speed - Keynote
 
 **Speaker:** Rae Knowler (@raeknowler)
-**Slides:** TODO
+
+**Slides:** https://speakerdeck.com/bellisk/unsafe-at-any-speed-pycon-uk-26th-october-2017
+
 **Video:** TODO
+
 
 - "The right thing to do is non-obvious, and the obvious thing to do is bad"
 
