@@ -4,7 +4,7 @@
 
 **Slides:** https://www.slideshare.net/JezHalford/seven-deadly-wastes
 
-**Video:** TODO
+**Video:** https://youtu.be/HRc7RBOgV_Q
 
 
 - What slows you down?

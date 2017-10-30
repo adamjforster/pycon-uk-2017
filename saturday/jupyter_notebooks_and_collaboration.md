@@ -4,7 +4,7 @@
 
 **Slides:** TODO
 
-**Video:** TODO
+**Video:** https://www.youtube.com/watch?v=J3k3HkVnd2c
 
 
 - Jupyter notesbooks have bome a popular way of working for data science.

@@ -4,7 +4,7 @@
 
 **Slides:** TODO
 
-**Video:** TODO
+**Video:** https://www.youtube.com/watch?v=P0SvDXp7dF8
 
 
 - Lazy sequences yield values when they are needed.
