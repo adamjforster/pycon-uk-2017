@@ -1,10 +1,11 @@
 # Software's Seven Deadly Wastes
 
-**Speaker:** Jez Halford (@jezhalford)
+**Speaker:** Jez Halford ([@jezhalford](https://twitter.com/jezhalford))
 
-**Slides:** TODO
+**Slides:** https://www.slideshare.net/JezHalford/seven-deadly-wastes
 
 **Video:** TODO
+
 
 - What slows you down?
 

@@ -1,6 +1,6 @@
 # Pythonic Code vs. Performance
 
-**Speaker:** Lukasz Kakol (@llanga)
+**Speaker:** Lukasz Kakol ([@llanga](https://twitter.com/llanga))
 
 **Slides:** http://lukkol.pl/pyconuk2017-performance
 

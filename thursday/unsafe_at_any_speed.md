@@ -1,6 +1,6 @@
 # Unsafe at Any Speed - Keynote
 
-**Speaker:** Rae Knowler (@raeknowler)
+**Speaker:** Rae Knowler ([@RaeKnowler](https://twitter.com/RaeKnowler))
 
 **Slides:** https://speakerdeck.com/bellisk/unsafe-at-any-speed-pycon-uk-26th-october-2017
 

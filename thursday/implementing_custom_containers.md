@@ -1,7 +1,9 @@
 # Implementing Custom Containers
 
-**Speaker:** TODO
-**Slides:** TODO
+**Speaker:** Claus
+
+**Slides:** https://github.com/caichinger/slides/blob/master/2017-10-26__PyCon_UK/CustomCollections.ipynb
+
 **Video:** TODO
 
 - Container: a collections of objects

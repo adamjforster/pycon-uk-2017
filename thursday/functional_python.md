@@ -1,8 +1,11 @@
 # Functional Python
 
-**Speaker:** Paul Jones (@paulwilljones)
+**Speaker:** Paul Jones ([@paulwilljones](https://twitter.com/paulwilljones))
+
 **Slides:** TODO
+
 **Video:** TODO
+
 
 - Main praradigms:
   - Imperative

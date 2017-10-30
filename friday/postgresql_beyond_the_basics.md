@@ -1,8 +1,8 @@
 # PostgreSQL: Beyond the Basics
 
-**Speaker:** Lorna Mitchell (@lornajane)
+**Speaker:** Lorna Mitchell ([@lornajane](https://twitter.com/lornajane))
 
-**Slides:** TODO
+**Slides:** https://speakerdeck.com/lornajane/postgres-beyond-the-basics
 
 **Video:** TODO
 

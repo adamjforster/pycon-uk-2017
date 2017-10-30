@@ -1,7 +1,7 @@
 # Scaling Django Codebases
 
-**Speaker:** Dan Palmer (@danpalmer)
+**Speaker:** Dan Palmer ([@danpalmer](https://twitter.com/danpalmer))
 
-**Slides:** TODO
+**Slides:** https://speakerdeck.com/danpalmer/scaling-django-codebases
 
 **Video:** TODO

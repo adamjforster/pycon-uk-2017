@@ -1,10 +1,11 @@
 # Abstract base Classes
 
-**Speaker:** Leonardo Giordani (TODO)
+**Speaker:** Leonardo Giordani ([@thedigicat](https://twitter.com/thedigicat))
 
 **Slides:** TODO
 
 **Video:** TODO
+
 
 - In python it is EAFP.
   - We test for behaviour not structure (duck typing).

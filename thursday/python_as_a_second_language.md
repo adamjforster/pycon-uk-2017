@@ -1,8 +1,11 @@
 # Python as a Second Language
 
 **Speaker:** Hannah Hazi
+
 **Slides:** TODO
+
 **Video:** TODO
+
 
 - Programmers suffer from 'baby duck syndrome'.
 - Every language has it's own version of good style.

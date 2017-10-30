@@ -1,10 +1,11 @@
 # Free is too Expensive
 
-**Speaker:** Daniele Procida (@EvilDMP)
+**Speaker:** Daniele Procida ([@EvilDMP](https://twitter.com/EvilDMP))
 
 **Slides:** TODO
 
 **Video:** TODO
+
 
 - Free software is a good thing (for all the reasons we already understand).
 

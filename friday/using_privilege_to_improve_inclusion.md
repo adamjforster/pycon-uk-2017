@@ -1,10 +1,11 @@
 # Using Privilege to Improve Inclusion
 
-**Speaker:** Alex Chan (@alexwlchan)
+**Speaker:** Alex Chan ([@alexwlchan](https://twitter.com/alexwlchan))
 
 **Slides:** TODO
 
 **Video:** TODO
+
 
 - Interviews ask for online profiles and open source contributions, optimising
   for people with free time (privilege).

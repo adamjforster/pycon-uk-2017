@@ -1,6 +1,6 @@
 # Docs or it Didn't Happen
 
-**Speaker:** Mikey Ariel (@ThatDocsLady)
+**Speaker:** Mikey Ariel ([@ThatDocsLady](https://twitter.com/ThatDocsLady))
 
 **Slides:** https://speakerdeck.com/thatdocslady/docs-or-it-didnt-happen
 
