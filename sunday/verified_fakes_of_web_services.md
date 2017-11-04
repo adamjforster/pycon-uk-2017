@@ -4,7 +4,7 @@
 
 **Slides:** TODO
 
-**Video:** TODO
+**Video:** https://www.youtube.com/watch?v=3H0d9lp05vA
 
 
 - Testing against a live API causes problems:

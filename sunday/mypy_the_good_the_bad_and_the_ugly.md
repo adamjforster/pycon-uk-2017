@@ -4,7 +4,7 @@
 
 **Slides:** TODO
 
-**Video:** TODO
+**Video:** https://www.youtube.com/watch?v=rtfqLJVsuOg
 
 
 - Static typing can:

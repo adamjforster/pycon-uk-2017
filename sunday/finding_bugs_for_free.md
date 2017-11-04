@@ -4,7 +4,7 @@
 
 **Slides:** TODO
 
-**Video:** TODO
+**Video:** https://www.youtube.com/watch?v=lAvTq4PhM4M
 
 
 - Static code analysis, learning aout your code without executing it.
